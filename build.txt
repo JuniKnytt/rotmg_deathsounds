@@ -1,0 +1,3 @@
+displayName = Realm of the Mad God Death Sounds
+author = Juni Knytt
+version = 1.0
